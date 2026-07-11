@@ -11,14 +11,23 @@ Electrical Engineering student at UERJ focused on Computer Systems and Backend D
 ### Programming Languages
 
 🐍 **Python**           ⭐⭐⭐⭐⭐
+
 💻 **C#**               ⭐⭐⭐⭐☆
+
 ☕ **Java**             ⭐⭐⭐⭐☆    
+
 ⚙️ **C++**              ⭐⭐⭐☆☆  
+
 🌐 **JavaScript**       ⭐⭐☆☆☆  
+
 📊 **R**                ⭐⭐☆☆☆  
+
 🗄️ **SQL**              ⭐⭐☆☆☆  
+
 🔧 **C**                ⭐☆☆☆☆
+
 🌎 **HTML**             ⭐☆☆☆☆ 
+
 🐘 **PHP**              ⭐☆☆☆☆   
 
 ## 🚀 Interests
