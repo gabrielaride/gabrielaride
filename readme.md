@@ -1,10 +1,10 @@
 # Hi, I'm Gabriel Aride 👋
 
-Electrical Engineering student at UERJ focused on Computer Systems and Backend Development.
+Electrical Engineering student at UERJ focused on Computer Systems.
 
-💻 Backend Developer interested in software engineering, automation, and intelligent systems.
+💻 Backend Developer interested in automation, intelligent systems and software engineering.
 
-🤖 Exploring Artificial Intelligence, Machine Learning, and data-driven solutions.
+🤖 Exploring Artificial Intelligence, Machine Learning, and software development.
 
 ## 🛠️ Technical Skills
 
