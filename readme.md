@@ -4,7 +4,7 @@ Electrical Engineering student at UERJ focused on Computer Systems.
 
 💻 Backend Developer interested in automation, intelligent systems and software engineering.
 
-🤖 Exploring Artificial Intelligence, Machine Learning, and software development.
+🤖 Exploring Artificial Intelligence and software development.
 
 ## 🛠️ Technical Skills
 
