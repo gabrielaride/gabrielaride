@@ -32,11 +32,11 @@ Electrical Engineering student at UERJ focused on Computer Systems and Backend D
 
 ## 🚀 Interests
 
-- Backend Development
-- Machine Learning
 - Algorithms and Data Structures
 - Artificial Intelligence
-- Computer Systems
 - Automation
+- Backend Development
+- Computer Systems
+- Machine Learning
 
 Always learning and building projects to improve my skills in programming, engineering, and technology.
