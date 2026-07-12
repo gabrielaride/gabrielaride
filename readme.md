@@ -1,40 +1,40 @@
 # Hi, I'm Gabriel Aride 👋
 
-Electrical Engineering student at UERJ focused on Computer Systems.
+Electrical Technician and Electrical Engineering student at UERJ with a focus on Computer Systems.
 
-💻 Interested in AI, Intelligent Systems, and Software Development. 
+I'm passionate about Artificial Intelligence, Intelligent Systems, and Software Development. I enjoy designing efficient solutions, learning new technologies, and building projects that combine engineering and programming.
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-### Programming Languages
+**Languages**
+- 🔧 C
+- 💻 C#
+- ⚙️ C++
+- 🌎 HTML
+- ☕ Java
+- 🌐 JavaScript
+- 🐘 PHP
+- 🐍 Python
+- 📊 R
+- 🗄️ SQL
 
-🐍 **Python**           ⭐⭐⭐⭐⭐
-
-💻 **C#**               ⭐⭐⭐⭐☆
-
-☕ **Java**             ⭐⭐⭐⭐☆    
-
-⚙️ **C++**              ⭐⭐⭐☆☆  
-
-🌐 **JavaScript**       ⭐⭐☆☆☆  
-
-📊 **R**                ⭐⭐☆☆☆  
-
-🗄️ **SQL**              ⭐⭐☆☆☆  
-
-🔧 **C**                ⭐☆☆☆☆
-
-🌎 **HTML**             ⭐☆☆☆☆ 
-
-🐘 **PHP**              ⭐☆☆☆☆   
+**Tools & Technologies**
+- 📊 Microsoft Excel
+- 📈 Microsoft PowerPoint
+- 📝 Microsoft Word
+- 🔄 n8n
 
 ## 🚀 Interests
 
-- Algorithms and Data Structures
-- Artificial Intelligence
-- Automation
-- Backend Development
-- Computer Systems
-- Machine Learning
+- 📈 Algorithms & Data Structures
+- 🤖 Artificial Intelligence
+- 🤖 Automation
+- 🔄 Backend Development
+- 🖥️ Computer Systems
+- 🧬 Deep Learning
+- ⚡ Intelligent Systems
+- 🧠 Machine Learning
 
-Always learning and building projects to improve my skills in programming, engineering, and technology.
+---
+
+Always learning, experimenting, and building projects to improve my skills in software engineering, artificial intelligence, and computer systems.
