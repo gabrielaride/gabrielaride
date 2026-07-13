@@ -22,7 +22,7 @@ I'm passionate about Artificial Intelligence, Intelligent Systems, and Software 
 - 📊 Microsoft Excel
 - 📈 Microsoft PowerPoint
 - 📝 Microsoft Word
-- 🔄 n8n
+- 🔄 N8N
 
 ## 🚀 Interests
 
