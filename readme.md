@@ -3,7 +3,7 @@ I'm Gabriel Aride;
 
 Electrical Technician and Electrical Engineering student at UERJ with a focus on Computer Systems.
 
-I'm passionate about Artificial Intelligence and Software Development. I enjoy designing efficient solutions, learning new technologies, and building projects that combine engineering and programming.
+I'm passionate about Artificial Intelligence and Software Development. I really enjoy architecting efficient solutions, learning new technologies, and building projects that solve engineering problems through innovation.
 
 ## 🛠️ Tech Stack
 
@@ -38,4 +38,4 @@ I'm passionate about Artificial Intelligence and Software Development. I enjoy d
 
 ---
 
-Always learning, experimenting, and building projects to improve my skills in software engineering, artificial intelligence, and computer systems.
+Always learning, experimenting, and building projects to improve my skills in artificial intelligence, computer systems and software engineering. 
