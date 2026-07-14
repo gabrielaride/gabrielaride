@@ -1,7 +1,7 @@
 # Hello, World! 👋🌎
 I'm Gabriel Aride;
 
-Electrical Technician and Electrical Engineering student at UERJ with a focus on Computer Systems.
+Electrical Technician and Electrical Engineering student at UERJ with a focus on Computer Systems;
 
 I'm passionate about Artificial Intelligence and Software Development. I really enjoy architecting efficient solutions, learning new technologies, and building projects that solve engineering problems through innovation.
 
