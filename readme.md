@@ -1,4 +1,4 @@
-# Hello, World! 🌎👋
+# Hello, World! 👋🌎
 I'm Gabriel Aride;
 
 Electrical Technician and Electrical Engineering student at UERJ with a focus on Computer Systems.
