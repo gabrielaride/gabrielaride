@@ -14,6 +14,7 @@ I'm passionate about Artificial Intelligence and Software Development. I really 
 - 🌎 HTML
 - ☕ Java
 - 🌐 JavaScript
+- 🅿️ Pascal
 - 🐘 PHP
 - 🐍 Python
 - 📊 R
