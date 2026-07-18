@@ -28,10 +28,10 @@ I'm passionate about Artificial Intelligence and Software Development. I really 
 
 ## 🚀 Interests
 
-- 📈 Algorithms & Data Structures
-- 🤖 Artificial Intelligence
+- 🧩 Algorithms & Data Structures
+- 🧠 Artificial Intelligence
 - 🤖 Automation
-- 🔄 Backend Development
+- ⚙️ Backend Development
 - 🖥️ Computer Systems
 - 🧬 Deep Learning
 - ⚡ Intelligent Systems
