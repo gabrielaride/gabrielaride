@@ -25,7 +25,7 @@ I'm passionate about Artificial Intelligence and Software Development. I really 
 - 💬 Claude
 - ✨ Gemini
 - 🐙 GitHub
-- ☁️ Google Workspace 
+- ☁️ Google Workspace
 - 📄 LibreOffice
 - 🐧 Linux
 - 📊 Microsoft Excel
@@ -35,6 +35,7 @@ I'm passionate about Artificial Intelligence and Software Development. I really 
 - 🔬 Qucs Circuit Simulator
 - 🟪 Visual Studio
 - 👁️ VS Code
+- 🪟 Windows
 
 ## 🚀 Interests
 
