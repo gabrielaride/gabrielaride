@@ -21,13 +21,20 @@ I'm passionate about Artificial Intelligence and Software Development. I really 
 - 🗄️ SQL
 
 **Tools & Technologies**
+- 🟠 Apache NetBeans
 - 💬 Claude
 - ✨ Gemini
 - 🐙 GitHub
+- ☁️ Google Workspace 
+- 📄 LibreOffice
+- 🐧 Linux
 - 📊 Microsoft Excel
 - 📽️ Microsoft PowerPoint
 - 📝 Microsoft Word
 - 🔄 N8N
+- 🔬 Qucs Circuit Simulator
+- 🟪 Visual Studio
+- 👁️ VS Code
 
 ## 🚀 Interests
 
@@ -35,7 +42,7 @@ I'm passionate about Artificial Intelligence and Software Development. I really 
 - 🧠 Artificial Intelligence
 - 🤖 Automation
 - 🖥️ Backend Development
-- 🔌 Computer Systems
+- 🎛️ Computer Systems
 - 🧬 Deep Learning
 - 💡 Intelligent Systems
 - 🎯 Machine Learning
