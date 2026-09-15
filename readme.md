@@ -1,28 +1,31 @@
-# Hello, World! 👋🌎
+# Hello, World! 👋🌍
 I'm Gabriel Aride;
 
 Electrical Technician and Electrical Engineering student at UERJ with a focus on Computer Systems;
 
 I'm passionate about Artificial Intelligence and Software Development. I really enjoy architecting efficient solutions, learning new technologies, and building projects that solve engineering problems through innovation.
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
 **Languages**
 - 🔧 C
 - 💻 C#
 - ⚙️ C++
-- 🌎 HTML
+- 🌐 HTML
 - ☕ Java
-- 🌐 JavaScript
+- 🟨 JavaScript
 - 🅿️ Pascal
 - 🐘 PHP
 - 🐍 Python
-- 📊 R
+- 📈 R
 - 🗄️ SQL
 
 **Tools & Technologies**
+- 💬 Claude
+- ✨ Gemini
+- 🐙 GitHub
 - 📊 Microsoft Excel
-- 📈 Microsoft PowerPoint
+- 📽️ Microsoft PowerPoint
 - 📝 Microsoft Word
 - 🔄 N8N
 
@@ -31,12 +34,12 @@ I'm passionate about Artificial Intelligence and Software Development. I really 
 - 🧩 Algorithms & Data Structures
 - 🧠 Artificial Intelligence
 - 🤖 Automation
-- ⚙️ Backend Development
-- 🖥️ Computer Systems
+- 🖥️ Backend Development
+- 🔌 Computer Systems
 - 🧬 Deep Learning
-- ⚡ Intelligent Systems
-- 🧠 Machine Learning
+- 💡 Intelligent Systems
+- 🎯 Machine Learning
 
 ---
 
-Always learning, experimenting, and building projects to improve my skills in artificial intelligence, computer systems and software engineering. 
+Always learning, experimenting, and building projects to improve my skills in artificial intelligence, computer systems and software engineering.
