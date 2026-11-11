@@ -31,7 +31,10 @@ I'm passionate about Artificial Intelligence and Software Development. I really 
 - 📊 Microsoft Excel
 - 📽️ Microsoft PowerPoint
 - 📝 Microsoft Word
-- 🔄 N8N
+- 🔄 n8n
+- 🧠 OpenAI Codex
+- 🐘 PostgreSQL
+- 🛠️ pgAdmin
 - 🔬 Qucs Circuit Simulator
 - 🟪 Visual Studio
 - 👁️ VS Code
